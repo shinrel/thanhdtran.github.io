@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download my resume at [CV](/files/cv.pdf)
+[comment]: <> (Download my resume at [CV]&#40;/files/cv.pdf&#41;)
 
 <!--
 Education

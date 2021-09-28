@@ -57,6 +57,9 @@ More info about configuring academicpages can be found in [the guide](https://ac
 
 Latest news
 ------
+- 09/28/2020 - Invited to serve as program committee of TheWebConf (or WWW) 2022.
+- 09/2021 - 1 paper got accepted at ASRU.
+- 08/2021 - 3 papers ( with 1 oral paper) got accepted at AMLC.  
 - 01/13/2021 - 1 paper got accepted at Data Mining and Knowledge Discovery.
 - 09/25/2020 - 3 papers got accepted at Yahoo TechPulse 2020.
 - 09/15/2020 - 1 paper got accepted at EMNLP 2020 as a full paper.
