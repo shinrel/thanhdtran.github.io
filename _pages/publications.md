@@ -16,14 +16,14 @@ author_profile: true
 {% endfor %}
 
 20. <b>[Adaptive global-local context fusion for multi-turn spoken language understanding]()</b><br>
-<b>Thanh Tran*</b>, Kai Wei*, Weitong Ruan, Ross McGowan, Nathan Susanj, Grant P. Strimel<br>
-<i> Data Mining and Knowledge Discovery </i> <br>
+<b> Thanh Tran* </b>, Kai Wei*, Weitong Ruan, Ross McGowan, Nathan Susanj, Grant P. Strimel <br>
+<i> AAAI IAAI 2022 </i> <br>
 [PDF]()
 
 
 19. <b>[Attentive contextual carryover for multi-turn end-to-end spoken language understanding]()</b><br>
-Kai Wei*, <b>Thanh Tran*</b>, Feng-Ju Chang, Kanthashree Mysore Sathyendra, Thejaswi Muniyappa, Jing Liu, Anirudh Raju, Ross McGowan, Nathan Susanj, Ariya Rastrow, Grant P. Strimel <br>
-<i> Data Mining and Knowledge Discovery </i> <br>
+Kai Wei*, <b> Thanh Tran* </b>, Feng-Ju Chang, Kanthashree Mysore Sathyendra, Thejaswi Muniyappa, Jing Liu, Anirudh Raju, Ross McGowan, Nathan Susanj, Ariya Rastrow, Grant P. Strimel <br>
+<i> ASRU 2021 </i> <br>
 [PDF]()
 
 18. <b>[Gender Classification Using Full Names and Content]()</b><br>
