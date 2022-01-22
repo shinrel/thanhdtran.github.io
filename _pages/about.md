@@ -57,6 +57,7 @@ More info about configuring academicpages can be found in [the guide](https://ac
 
 Latest news
 ------
+- 01/21/2022 - One paper got accepted at ICASSP 2022.
 - 11/21/2021 - One paper got accepted at AAAI IAAI track 2022.
 - 09/28/2020 - Invited to serve as program committee of TheWebConf (or WWW) 2022.
 - 09/2021 - 1 paper got accepted at ASRU.
