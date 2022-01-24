@@ -15,6 +15,11 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+21. <b>[A Neural Prosody Encoder For End-To-End Dialogue Act Classification]()</b><br>
+Kai Wei, Dillon Knox, Martin Radfar, <b> Thanh Tran </b>, Markus Mueller, Grant Strimel, Nathan Susanj, Athanasios Mouchtaris, Maurizio Omologo <br>
+<i> ICASSP 2022 </i> <br>
+[PDF]()
+
 20. <b>[Adaptive global-local context fusion for multi-turn spoken language understanding]()</b><br>
 <b> Thanh Tran* </b>, Kai Wei*, Weitong Ruan, Ross McGowan, Nathan Susanj, Grant P. Strimel <br>
 <i> AAAI IAAI 2022 </i> <br>
@@ -28,7 +33,7 @@ Kai Wei*, <b> Thanh Tran* </b>, Feng-Ju Chang, Kanthashree Mysore Sathyendra, Th
 
 18. <b>[Gender Classification Using Full Names and Content]()</b><br>
 Yifan Hu, Changwei Hu, <b> Thanh Tran </b>, Tejaswi Kasturi, Elizabeth Joseph, Ili Selinger <br>
-<i> Data Mining and Knowledge Discovery </i> <br>
+<i> Data Mining and Knowledge Discovery, 2021 </i> <br>
 [PDF]()
 
 17. <b>[Efficient Hyper-parameter Optimization for Neural Networks]()</b><br>
