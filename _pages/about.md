@@ -9,7 +9,7 @@ redirect_from:
   - /home/
 ---
 
-Hi, I am an Applied Scientist at Amazon Alexa Speech working on Spoken Language Understanding and Speech Recognition. My team in based in Pittsburg, PA, USA.
+Hi, I am an Applied Scientist at Amazon AI - Natural Language Undersanding, working on contextual NLU. My team in based in Cambridge, MA, USA. I have spent one year in Amazon Alexa Speech working on Spoken Language Understanding and Speech Recognition. 
 Before joining Amazon, 
 I earned my PhD. at Worcester Polytechnic Institute, MA, USA, and B.Eng in Computer Science from HUST, Hanoi, Vietnam. 
 During my PhD, I worked on recommendation systems, and NLP applications.
