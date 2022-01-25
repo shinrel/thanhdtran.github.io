@@ -14,6 +14,10 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+22. <b>[Looking Further into the Future: Career Pathway Prediction]</b><br>
+Michiharu Yamashita, Yunqi Li, <b>Thanh Tran</b>, Yongfeng Zhang and Dongwon Lee<br>
+<i> WSDM Workshop 2022 </i> <br>
+[PDF]()
 
 21. <b>[A Neural Prosody Encoder For End-To-End Dialogue Act Classification]()</b><br>
 Kai Wei, Dillon Knox, Martin Radfar, <b> Thanh Tran </b>, Markus Mueller, Grant Strimel, Nathan Susanj, Athanasios Mouchtaris, Maurizio Omologo <br>
