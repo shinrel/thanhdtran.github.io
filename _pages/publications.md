@@ -14,6 +14,7 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
 22. <b>[Looking Further into the Future: Career Pathway Prediction]</b><br>
 Michiharu Yamashita, Yunqi Li, <b>Thanh Tran</b>, Yongfeng Zhang and Dongwon Lee<br>
 <i> WSDM Workshop 2022 </i> <br>
