@@ -9,7 +9,7 @@ redirect_from:
   - /home/
 ---
 
-Hi, I am an Applied Scientist at Amazon AI - Natural Language Undersanding, working on contextual NLU. My team is based in Cambridge, MA, USA. I have spent one year in Amazon Alexa Speech working on Spoken Language Understanding and Speech Recognition. 
+Hi, I am a Senior Applied Scientist at Amazon AGI - Olympus, working on Responsible AI for Multi-modal Foundation Models (Any2Text, Text2Image). My team is based in Boston, MA, USA. I have spent one year in Amazon Alexa Speech working on Spoken Language Understanding and Speech Recognition. 
 Before joining Amazon, 
 I earned my PhD. at Worcester Polytechnic Institute, MA, USA, and B.Eng in Computer Science from HUST, Hanoi, Vietnam. 
 During my PhD, I worked on recommendation systems, and NLP applications.
@@ -57,6 +57,9 @@ More info about configuring academicpages can be found in [the guide](https://ac
 
 Latest news
 ------
+- 2024: 2 papers got accepted at COLING, 1 full paper got accepted at WWW, and 1 paper got accepted at ICLR LLM Agent.
+- 2023 - 1 Full paper got accepted at DSAA 2023.
+- 2022 - 1 Full paper got accepted at BigData 2022.
 - 01/25/2022 - 1 paper got accepted at WSDM Workshop 2022.
 - 01/21/2022 - 1 paper got accepted at ICASSP 2022.
 - 11/21/2021 - 1 paper got accepted at AAAI IAAI track 2022.
